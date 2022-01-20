@@ -1,4 +1,4 @@
-let n = prompt("Введите цифры от 0 до 9");
+let n = prompt("Введите одну цифру от 0 до 9");
 switch(n) {
     case '0' : alert("Ноль");
     break;
